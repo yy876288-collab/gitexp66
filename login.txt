@@ -1,1 +1,3 @@
 login functionality implmented
+password:enter your password
+username:enter your name
